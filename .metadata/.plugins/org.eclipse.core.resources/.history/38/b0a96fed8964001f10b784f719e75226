@@ -1,0 +1,5 @@
+package com.example.productservice.Model.Controller;
+
+public class ProductController {
+
+}
